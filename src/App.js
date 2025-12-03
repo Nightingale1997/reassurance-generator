@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   const [party, setParty] = useState(false);
   const { width, height } = useWindowSize();
-  let audio = new Audio("/celebration.mp3");
+  let audio = new Audio("./celebration.mp3");
   const start = () => {
     audio.play();
   };
