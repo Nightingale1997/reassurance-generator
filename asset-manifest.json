@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reassurance-generator/static/css/main.f855e6bc.css",
+    "main.js": "/reassurance-generator/static/js/main.6db94ec1.js",
+    "static/js/453.a6c63f30.chunk.js": "/reassurance-generator/static/js/453.a6c63f30.chunk.js",
+    "index.html": "/reassurance-generator/index.html",
+    "main.f855e6bc.css.map": "/reassurance-generator/static/css/main.f855e6bc.css.map",
+    "main.6db94ec1.js.map": "/reassurance-generator/static/js/main.6db94ec1.js.map",
+    "453.a6c63f30.chunk.js.map": "/reassurance-generator/static/js/453.a6c63f30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6db94ec1.js"
+  ]
+}
